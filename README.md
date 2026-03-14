@@ -8,7 +8,7 @@
 ### Project Overview
 Collection of 50 frontend mini-projects focused on Vanilla JavaScript, CSS animations, and DOM manipulation. No frameworks, no libraries—just core web technologies.
 
-**Deployment:** [https://leobardoRA.github.io/50-proyectos/](https://leobardoRA.github.io/50-proyectos/)
+**Deployment:**(https://github.com/leobardoRA)
 
 ---
 
