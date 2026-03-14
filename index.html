@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es"> <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>50 Projects in 50 Days</title>
+
+    <meta name="description" content="Colección de 50 proyectos prácticos desarrollados con HTML5, CSS3 y JavaScript Vanilla.">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Web Development, Coding Challenge">
+    <meta name="author" content="Carlos Páez">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tu-dominio.com/">
+    <meta property="og:title" content="50 Projects in 50 Days - Challenge">
+    <meta property="og:description" content="Explora 50 retos de programación web paso a paso.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/carlos-paezf/50_Projects_50_days/main/preview.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="50 Projects in 50 Days">
+    <meta name="twitter:description" content="50 retos de JavaScript, HTML y CSS.">
+    <meta name="twitter:image" content="https://raw.githubusercontent.com/carlos-paezf/50_Projects_50_days/main/preview.png">
+
+    <link rel="icon" href="https://github.com/fluidicon.png">
+    <link rel="stylesheet" href="style.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <main id="app" class="container">
+        <header class="header">
+            <h1>50 Projects in 50 Days</h1>
+            <p class="subtitle">Desafíos de programación con <strong>HTML, CSS y JavaScript</strong></p>
+            
+            <div class="meta-info">
+                <span>Febrero & Marzo 2023</span>
+                <span class="divider">—</span>
+                <a href="https://github.com/leobardoRA" target="_blank" rel="noopener noreferrer" class="author-link">
+                    @leobardoRA
+                </a>
+            </div>
+        </header>
+
+        <hr class="separator">
+
+        <section class="projects-container">
+            <div class="table-responsive">
+                <table class="projects-table">
+                    <thead>
+                        <tr>
+                            <th scope="col" class="col-id">#</th>
+                            <th scope="col" class="col-name">Proyecto</th>
+                            <th scope="col" class="col-link">Demo en Vivo</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody">
+                        <tr>
+                            <td colspan="3" class="loading">Cargando proyectos...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <script type="module" src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Expanding Cards",
+        "urlSegment": "01-Expanding_Card"
+    },
+    {
+        "name": "Progress Steps",
+        "urlSegment": "02-Progress_Steps"
+    },
+    {
+        "name": "Rotating Navigation Animation",
+        "urlSegment": "03-Rotating_Navigation_Animation"
+    },
+    {
+        "name": "Hidden Search Widget",
+        "urlSegment": "04-Hidden_Search_Widget"
+    },
+    {
+        "name": "Blurry Loading",
+        "urlSegment": "05-Blurry_Loading"
+    },
+    {
+        "name": "Scroll Animation",
+        "urlSegment": "06-Scroll_Animation"
+    },
+    {
+        "name": "Split Landing Page",
+        "urlSegment": "07-Split_Landing_Page"
+    },
+    {
+        "name": "Form Wave",
+        "urlSegment": "08-Form_Wave"
+    },
+    {
+        "name": "Sound Board",
+        "urlSegment": "09-Sound_Board"
+    },
+    {
+        "name": "Dad Jokes",
+        "urlSegment": "10-Dad_Jokes"
+    },
+    {
+        "name": "Event Keycodes",
+        "urlSegment": "11-Event-Keycodes"
+    },
+    {
+        "name": "Faq Collapse",
+        "urlSegment": "12-Faq_Collapse"
+    },
+    {
+        "name": "Random Choice Picker",
+        "urlSegment": "13-Random_Choice_Picker"
+    },
+    {
+        "name": "Animated Navigation",
+        "urlSegment": "14-Animated_Navigation"
+    },
+    {
+        "name": "Incrementing Counter",
+        "urlSegment": "15-Incrementing_Counter"
+    },
+    {
+        "name": "Drink Water",
+        "urlSegment": "16-Drink_Water"
+    },
+    {
+        "name": "Movie App",
+        "urlSegment": "17-Movie_App"
+    },
+    {
+        "name": "Background Slider",
+        "urlSegment": "18-Background-Slider"
+    },
+    {
+        "name": "Theme Clock",
+        "urlSegment": "19-Theme_Clock"
+    },
+    {
+        "name": "Button Ripple Effect",
+        "urlSegment": "20-Button_Ripple_Effect"
+    },
+    {
+        "name": "Drag N Drop",
+        "urlSegment": "21-Drag_N_Drop"
+    },
+    {
+        "name": "Drawing App",
+        "urlSegment": "22-Drawing_App"
+    },
+    {
+        "name": "Kinetic Loader",
+        "urlSegment": "23-Kinetic_Loader"
+    },
+    {
+        "name": "Content Placeholder",
+        "urlSegment": "24-Content_Placeholder"
+    },
+    {
+        "name": "Sticky Navbar",
+        "urlSegment": "25-Sticky_Navbar"
+    },
+    {
+        "name": "Double Vertical Slider",
+        "urlSegment": "26-Double_Vertical_Slider"
+    },
+    {
+        "name": "Toast Notification",
+        "urlSegment": "27-Toast_Notification"
+    },
+    {
+        "name": "GitHub Profiles",
+        "urlSegment": "28-GitHub_Profiles"
+    },
+    {
+        "name": "Double Click Heart",
+        "urlSegment": "29-Double_Click_Heart"
+    },
+    {
+        "name": "Auto Text Effect",
+        "urlSegment": "30-Auto_Text_Effect"
+    },
+    {
+        "name": "Password Generator",
+        "urlSegment": "31-Password_Generator"
+    },
+    {
+        "name": "Good Cheap Fast",
+        "urlSegment": "32-Good_Cheap_Fast"
+    },
+    {
+        "name": "Notes App",
+        "urlSegment": "33-Notes_App"
+    },
+    {
+        "name": "Animated Countdown",
+        "urlSegment": "34-Animated_Countdown"
+    },
+    {
+        "name": "Image Carousel",
+        "urlSegment": "35-Image_Carousel"
+    },
+    {
+        "name": "Hoverboard",
+        "urlSegment": "36-Hoverboard"
+    },
+    {
+        "name": "Pokedex",
+        "urlSegment": "37-Pokedex"
+    },
+    {
+        "name": "Mobile Tab Navigation",
+        "urlSegment": "38-Mobile_Tab_Navigation"
+    },
+    {
+        "name": "Password Strength Background",
+        "urlSegment": "39-Password_Strength_Background"
+    },
+    {
+        "name": "3d Background Boxes",
+        "urlSegment": "40-3d_Background_Boxes"
+    },
+    {
+        "name": "Verify Account UI",
+        "urlSegment": "41-Verify_Account_UI"
+    },
+    {
+        "name": "Live User Filter",
+        "urlSegment": "42-Live_User_Filter"
+    },
+    {
+        "name": "Feedback UI Design",
+        "urlSegment": "43-Feedback_UI_Design"
+    },
+    {
+        "name": "Custom Range Slider",
+        "urlSegment": "44-Custom_Range_Slider"
+    },
+    {
+        "name": "Netflix Mobile Navigation",
+        "urlSegment": "45-Netflix_Mobile_Navigation"
+    },
+    {
+        "name": "Quiz App",
+        "urlSegment": "46-Quiz_App"
+    },
+    {
+        "name": "Testimonial Box Switcher",
+        "urlSegment": "47-Testimonial_Box_Switcher"
+    },
+    {
+        "name": "Random Image Feed",
+        "urlSegment": "48-Random_Image_Feed"
+    },
+    {
+        "name": "TODO List",
+        "urlSegment": "49-TODO_List"
+    },
+    {
+        "name": "Insect Catch Game",
+        "urlSegment": "50-Insect_Catch_Game"
+    }
+]
