@@ -1,162 +1,84 @@
-# 50 Projects in 50 Days (HTML - CSS - JS)
+# 50 Projects in 50 Days
+## Frontend Development Challenge • HTML5 | CSS3 | JavaScript
 
 [![wakatime](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/ff14be13-f394-4a76-b2f2-292464b11a00.svg?style=for-the-badge)](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/ff14be13-f394-4a76-b2f2-292464b11a00)
 
-> Una colección de 50 proyectos rápidos y prácticos de desarrollo web.
+---
 
-<br>
-<p align="center">
-  <a href="https://leobardoRA.github.io/50_Projects_50_days/" style="font-size: 1.5rem; font-weight: bold;">
-    🚀 Ver Demo de Todo el Portafolio 🚀
-  </a>
-</p>
-<br>
+### Project Overview
+This repository contains 50 small projects built with vanilla web technologies. The goal of this challenge is to strengthen core frontend skills by implementing diverse UI components, animations, and DOM logic without external frameworks.
 
-## 🛠️ Los 50 Proyectos
-
-A continuación, la galería de desafíos completados:
+**Live Portfolio:** [leobardoRA.github.io/50-proyectos/](https://leobardoRA.github.io/50-proyectos/)
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <a href="https://leobardoRA.github.io/50_Projects_50_days/01-Expanding_Card/index.html">
-        <img src="./01-Expanding_Card/preview.gif" alt="Expanding Card" style="max-width:100%; border-radius: 8px; border: 1px solid #ddd;">
-        <br>
-        <strong>01. Expanding Card</strong>
-      </a>
-      <br>
-      <small>HTML - CSS - JS</small>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="https://leobardoRA.github.io/50_Projects_50_days/02-Progress_Steps/index.html">
-        <img src="./02-Progress_Steps/preview.gif" alt="Progress Steps" style="max-width:100%; border-radius: 8px; border: 1px solid #ddd;">
-        <br>
-        <strong>02. Progress Steps</strong>
-      </a>
-      <br>
-      <small>HTML - CSS - JS</small>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="https://leobardoRA.github.io/50_Projects_50_days/03-Rotating_Navigation_Animation/index.html">
-        <img src="./03-Rotating_Navigation_Animation/preview.gif" alt="Rotating Nav" style="max-width:100%; border-radius: 8px; border: 1px solid #ddd;">
-        <br>
-        <strong>03. Rotating Navigation</strong>
-      </a>
-      <br>
-      <small>HTML - CSS - JS</small>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <a href="https://leobardoRA.github.io/50_Projects_50_days/04-Hidden_Search_Widget/index.html">
-        <img src="./04-Hidden_Search_Widget/preview.gif" alt="Hidden Search" style="max-width:100%; border-radius: 8px; border: 1px solid #ddd;">
-        <br>
-        <strong>04. Hidden Search</strong>
-      </a>
-      <br>
-      <small>HTML - CSS - JS</small>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="https://leobardoRA.github.io/50_Projects_50_days/05-Blurry_Loading/index.html">
-        <img src="./05-Blurry_Loading/preview.gif" alt="Blurry Loading" style="max-width:100%; border-radius: 8px; border: 1px solid #ddd;">
-        <br>
-        <strong>05. Blurry Loading</strong>
-      </a>
-      <br>
-      <small>HTML - CSS - JS</small>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <a href="https://leobardoRA.github.io/50_Projects_50_days/06-Scroll_Animation/index.html">
-        <img src="./06-Scroll_Animation/preview.gif" alt="Scroll Animation" style="max-width:100%; border-radius: 8px; border: 1px solid #ddd;">
-        <br>
-        <strong>06. Scroll Animation</strong>
-      </a>
-      <br>
-      <small>HTML - CSS - JS</small>
-    </td>
-  </tr>
-  </table>
+### Navigation Index
+
+| ID | Project Module | Source Code | Deployment |
+| :--- | :--- | :---: | :--- |
+| **01** | Expanding Cards | [Source](./01-Expanding_Card/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/01-Expanding_Card/) |
+| **02** | Progress Steps | [Source](./02-Progress_Steps/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/02-Progress_Steps/) |
+| **03** | Rotating Navigation Animation | [Source](./03-Rotating_Navigation_Animation/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/03-Rotating_Navigation_Animation/) |
+| **04** | Hidden Search Widget | [Source](./04-Hidden_Search_Widget/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/04-Hidden_Search_Widget/) |
+| **05** | Blurry Loading | [Source](./05-Blurry_Loading/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/05-Blurry_Loading/) |
+| **06** | Scroll Animation | [Source](./06-Scroll_Animation/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/06-Scroll_Animation/) |
+| **07** | Split Landing Page | [Source](./07-Split_Landing_Page/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/07-Split_Landing_Page/) |
+| **08** | Form Wave | [Source](./08-Form_Wave/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/08-Form_Wave/) |
+| **09** | Sound Board | [Source](./09-Sound_Board/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/09-Sound_Board/) |
+| **10** | Dad Jokes | [Source](./10-Dad_Jokes/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/10-Dad_Jokes/) |
+| **11** | Event Keycodes | [Source](./11-Event-Keycodes/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/11-Event-Keycodes/) |
+| **12** | Faq Collapse | [Source](./12-Faq_Collapse/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/12-Faq_Collapse/) |
+| **13** | Random Choice Picker | [Source](./13-Random_Choice_Picker/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/13-Random_Choice_Picker/) |
+| **14** | Animated Navigation | [Source](./14-Animated_Navigation/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/14-Animated_Navigation/) |
+| **15** | Incrementing Counter | [Source](./15-Incrementing_Counter/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/15-Incrementing_Counter/) |
+| **16** | Drink Water | [Source](./16-Drink_Water/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/16-Drink_Water/) |
+| **17** | Movie App | [Source](./17-Movie_App/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/17-Movie_App/) |
+| **18** | Background Slider | [Source](./18-Background-Slider/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/18-Background-Slider/) |
+| **19** | Theme Clock | [Source](./19-Theme_Clock/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/19-Theme_Clock/) |
+| **20** | Button Ripple Effect | [Source](./20-Button_Ripple_Effect/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/20-Button_Ripple_Effect/) |
+| **21** | Drag N Drop | [Source](./21-Drag_N_Drop/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/21-Drag_N_Drop/) |
+| **22** | Drawing App | [Source](./22-Drawing_App/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/22-Drawing_App/) |
+| **23** | Kinetic Loader | [Source](./23-Kinetic_Loader/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/23-Kinetic_Loader/) |
+| **24** | Content Placeholder | [Source](./24-Content_Placeholder/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/24-Content_Placeholder/) |
+| **25** | Sticky Navbar | [Source](./25-Sticky_Navbar/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/25-Sticky_Navbar/) |
+| **26** | Double Vertical Slider | [Source](./26-Double_Vertical_Slider/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/26-Double_Vertical_Slider/) |
+| **27** | Toast Notification | [Source](./27-Toast_Notification/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/27-Toast_Notification/) |
+| **28** | GitHub Profiles | [Source](./28-GitHub_Profiles/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/28-GitHub_Profiles/) |
+| **29** | Double Click Heart | [Source](./29-Double_Click_Heart/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/29-Double_Click_Heart/) |
+| **30** | Auto Text Effect | [Source](./30-Auto_Text_Effect/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/30-Auto_Text_Effect/) |
+| **31** | Password Generator | [Source](./31-Password_Generator/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/31-Password_Generator/) |
+| **32** | Good Cheap Fast | [Source](./32-Good_Cheap_Fast/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/32-Good_Cheap_Fast/) |
+| **33** | Notes App | [Source](./33-Notes_App/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/33-Notes_App/) |
+| **34** | Animated Countdown | [Source](./34-Animated_Countdown/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/34-Animated_Countdown/) |
+| **35** | Image Carousel | [Source](./35-Image_Carousel/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/35-Image_Carousel/) |
+| **36** | Hoverboard | [Source](./36-Hoverboard/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/36-Hoverboard/) |
+| **37** | Pokedex | [Source](./37-Pokedex/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/37-Pokedex/) |
+| **38** | Mobile Tab Navigation | [Source](./38-Mobile_Tab_Navigation/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/38-Mobile_Tab_Navigation/) |
+| **39** | Password Strength Background | [Source](./39-Password_Strength_Background/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/39-Password_Strength_Background/) |
+| **40** | 3d Background Boxes | [Source](./40-3d_Background_Boxes/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/40-3d_Background_Boxes/) |
+| **41** | Verify Account UI | [Source](./41-Verify_Account_UI/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/41-Verify_Account_UI/) |
+| **42** | Live User Filter | [Source](./42-Live_User_Filter/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/42-Live_User_Filter/) |
+| **43** | Feedback UI Design | [Source](./43-Feedback_UI_Design/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/43-Feedback_UI_Design/) |
+| **44** | Custom Range Slider | [Source](./44-Custom_Range_Slider/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/44-Custom_Range_Slider/) |
+| **45** | Netflix Mobile Navigation | [Source](./45-Netflix_Mobile_Navigation/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/45-Netflix_Mobile_Navigation/) |
+| **46** | Quiz App | [Source](./46-Quiz_App/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/46-Quiz_App/) |
+| **47** | Testimonial Box Switcher | [Source](./47-Testimonial_Box_Switcher/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/47-Testimonial_Box_Switcher/) |
+| **48** | Random Image Feed | [Source](./48-Random_Image_Feed/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/48-Random_Image_Feed/) |
+| **49** | TODO List | [Source](./49-TODO_List/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/49-TODO_List/) |
+| **50** | Insect Catch Game | [Source](./50-Insect_Catch_Game/) | [Live Preview](https://leobardoRA.github.io/50-proyectos/50-Insect_Catch_Game/) |
 
 ---
 
-### Cómo replicar esto para los 50 proyectos:
-Debes añadir una nueva fila (`<tr> ... </tr>`) cada 3 proyectos. Para cada proyecto dentro de la fila (cada `<td ... </td>`), asegúrate de:
-1.  Actualizar el enlace en `href`.
-2.  Actualizar la ruta de la imagen en `src` (ejemplo: `./07-Split_Landing_Page/preview.gif`).
-3.  Actualizar el nombre del proyecto en `alt` y en el texto debajo de la imagen.
+### Technical Competencies
+* **UI/UX:** Responsive Design, CSS Animations, Custom Properties, and Flexbox/Grid layouts.
+* **JavaScript:** Async/Await, Fetch API, DOM Manipulation, and Event Delegation.
+* **Tools:** Git/GitHub, VS Code, WakaTime tracking.
 
 ---
 
-### Opción 2: Diseño de lista estilizada (más limpio y legible)
+### Getting Started
+To explore these projects locally, follow these steps:
 
-Si no tienes GIFs o imágenes para cada proyecto, esta opción mejora drásticamente la tabla original usando iconos, separadores y una estructura más limpia.
-
-```markdown
-# 50 Projects in 50 Days (HTML - CSS - JS)
-
-[![wakatime](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/ff14be13-f394-4a76-b2f2-292464b11a00.svg?style=for-the-badge)](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/ff14be13-f394-4a76-b2f2-292464b11a00)
-
-### 🚀 [Ver Demo de Todo el Portafolio](https://leobardoRA.github.io/50_Projects_50_days/)
-
-Una colección detallada de 50 desafíos rápidos de programación web, utilizando tecnologías estándar (Vanilla JS, CSS3, HTML5).
-
----
-
-## 🛠️ Índice de Proyectos
-
-Aquí encontrarás la lista completa de los 50 desafíos con su acceso directo a la demostración en vivo.
-
-| # | 💻 Proyecto | 🔗 Demo en Vivo |
-| :---: | :--- | :--- |
-| **01** | [Expanding Card](./01-Expanding_Card/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/01-Expanding_Card/index.html) |
-| **02** | [Progress Steps](./02-Progress_Steps/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/02-Progress_Steps/index.html) |
-| **03** | [Rotating Navigation Animation](./03-Rotating_Navigation_Animation/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/03-Rotating_Navigation_Animation/index.html) |
-| **04** | [Hidden Search Widget](./04-Hidden_Search_Widget/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/04-Hidden_Search_Widget/index.html) |
-| **05** | [Blurry Loading](./05-Blurry_Loading/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/05-Blurry_Loading/index.html) |
-| **06** | [Scroll Animation](./06-Scroll_Animation/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/06-Scroll_Animation/index.html) |
-| **07** | [Split Landing Page](./07-Split_Landing_Page/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/07-Split_Landing_Page/index.html) |
-| **08** | [Form Wave](./08-Form_Wave/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/08-Form_Wave/index.html) |
-| **09** | [Sound Board](./09-Sound_Board/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/09-Sound_Board/index.html) |
-| **10** | [Dad Jokes](./ dad_Jokes/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/10-Dad_Jokes/index.html) |
-| **11** | [Event Keycodes](./11-Event-Keycodes/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/11-Event-Keycodes/index.html) |
-| **12** | [Faq Collapse](./12-Faq_Collapse/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/12-Faq_Collapse/index.html) |
-| **13** | [Random Choice Picker](./13-Random_Choice_Picker/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/13-Random_Choice_Picker/index.html) |
-| **14** | [Animated Navigation](./14-Animated_Navigation/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/14-Animated_Navigation/index.html) |
-| **15** | [Incrementing Counter](./15-Incrementing_Counter/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/15-Incrementing_Counter/index.html) |
-| **16** | [Drink Water](./16-Drink_Water/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/16-Drink_Water/index.html) |
-| **17** | [Movie App](./17-Movie_App/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/17-Movie_App/index.html) |
-| **18** | [Background Slider](./18-Background-Slider/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/18-Background-Slider/index.html) |
-| **19** | [Theme Clock](./19-Theme_Clock/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/19-Theme_Clock/index.html) |
-| **20** | [Button Ripple Effect](./20-Button_Ripple_Effect/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/20-Button_Ripple_Effect/index.html) |
-| **21** | [Drag N Drop](./21-Drag_N_Drop/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/21-Drag_N_Drop/index.html) |
-| **22** | [Drawing App](./22-Drawing_App/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/22-Drawing_App/index.html) |
-| **23** | [Kinetic Loader](./23-Kinetic_Loader/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/23-Kinetic_Loader/index.html) |
-| **24** | [Content Placeholder](./24-Content_Placeholder/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/24-Content_Placeholder/index.html) |
-| **25** | [Sticky Navbar](./25-Sticky_Navbar/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/25-Sticky_Navbar/index.html) |
-| **26** | [Double Vertical Slider](./26-Double_Vertical_Slider/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/26-Double_Vertical_Slider/index.html) |
-| **27** | [Toast Notification](./27-Toast_Notification/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/27-Toast_Notification/index.html) |
-| **28** | [GitHub Profiles](./28-GitHub_Profiles/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/28-GitHub_Profiles/index.html) |
-| **29** | [Double Click Heart](./29-Double_Click_Heart/)| [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/29-Double_Click_Heart/index.html) |
-| **30** | [Auto Text Effect](./30-Auto_Text_Effect/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/30-Auto_Text_Effect/index.html) |
-| **31** | [Password Generator](./31-Password_Generator/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/31-Password_Generator/index.html) |
-| **32** | [Good Cheap Fast](./32-Good_Cheap_Fast/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/32-Good_Cheap_Fast/index.html) |
-| **33** | [Notes App](./33-Notes_App/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/33-Notes_App/index.html) |
-| **34** | [Animated Countdown](./34-Animated_Countdown/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/34-Animated_Countdown/index.html) |
-| **35** | [Image Carousel](./35-Image_Carousel/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/35-Image_Carousel/index.html) |
-| **36** | [Hoverboard](./36-Hoverboard/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/36-Hoverboard/index.html) |
-| **37** | [Pokedex](./37-Pokedex/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/37-Pokedex/index.html) |
-| **38** | [Mobile Tab Navigation](./38-Mobile_Tab_Navigation/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/38-Mobile_Tab_Navigation/index.html) |
-| **39** | [Password Strength Background](./39-Password_Strength_Background/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/39-Password_Strength_Background/index.html) |
-| **40** | [3d Background Boxes](./40-3d_Background_Boxes/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/40-3d_Background_Boxes/index.html) |
-| **41** | [Verify Account UI](./41-Verify_Account_UI/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/41-Verify_Account_UI/index.html) |
-| **42** | [Live User Filter](./42-Live_User_Filter/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/42-Live_User_Filter/index.html) |
-| **43** | [Feedback UI Design](./43-Feedback_UI_Design/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/43-Feedback_UI_Design/index.html) |
-| **44** | [Custom Range Slider](./44-Custom_Range_Slider/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/44-Custom_Range_Slider/index.html) |
-| **45** | [Netflix Mobile Navigation](./45-Netflix_Mobile_Navigation/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/45-Netflix_Mobile_Navigation/index.html) |
-| **46** | [Quiz App](./46-Quiz_App/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/46-Quiz_App/index.html) |
-| **47** | [Testimonial Box Switcher](./47-Testimonial_Box_Switcher/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/47-Testimonial_Box_Switcher/index.html) |
-| **48** | [Random Image Feed](./48-Random_Image_Feed/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/48-Random_Image_Feed/index.html) |
-| **49** | [TODO List](./49-TODO_List/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/49-TODO_List/index.html) |
-| **50** | [Insect Catch Game](./50-Insect_Catch_Game/) | [🚀 Live Demo](https://leobardoRA.github.io/50_Projects_50_days/50-Insect_Catch_Game/index.html) |
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/leobardoRA/50-proyectos.git](https://github.com/leobardoRA/50-proyectos.git)
