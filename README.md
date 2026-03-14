@@ -1,6 +1,6 @@
 # 50 projects - 50 days (HTML - CSS - JS)
 
-Web Page Demo: [https://leobardoRA.github.io/50-proyectos/](https://leobardoRA.github.io/50-proyectos/)
+Web Page Demo: <https://leobardoRA.github.io/50-proyectos/>
 
 | #  | Project                                | Live Demo                                                  |
 | -  | -------------------------------------- | ---------------------------------------------------------- |
@@ -49,8 +49,4 @@ Web Page Demo: [https://leobardoRA.github.io/50-proyectos/](https://leobardoRA.g
 | 43 | [Feedback UI Design](./43-Feedback_UI_Design/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/43-Feedback_UI_Design/index.html) |
 | 44 | [Custom Range Slider](./44-Custom_Range_Slider/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/44-Custom_Range_Slider/index.html) |
 | 45 | [Netflix Mobile Navigation](./45-Netflix_Mobile_Navigation/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/45-Netflix_Mobile_Navigation/index.html) |
-| 46 | [Quiz App](./46-Quiz_App/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/46-Quiz_App/index.html) |
-| 47 | [Testimonial Box Switcher](./47-Testimonial_Box_Switcher/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/47-Testimonial_Box_Switcher/index.html) |
-| 48 | [Random Image Feed](./48-Random_Image_Feed/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/48-Random_Image_Feed/index.html) |
-| 49 | [TODO List](./49-TODO_List/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/49-TODO_List/index.html) |
-| 50 | [Insect Catch Game](./50-Insect_Catch_Game/) | [Live Demo](https://leobardoRA.github.io/50-proyectos/50-Insect_Catch_Game/index.html) |
+|
